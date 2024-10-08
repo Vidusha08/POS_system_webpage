@@ -1,0 +1,152 @@
+
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.App {
+  text-align: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #d8ebfa;
+}
+
+.app-header {
+  background-color: #05055e;
+  color: white;
+  padding: 15px 0;
+  height: 110px;
+  width:100%;
+  overflow: hidden;
+
+}
+/*
+.app-header h2 {
+  text-align: center;
+}*/
+
+.date {
+  text-align: left;
+  font-size: 18px;
+  margin: 0;
+  margin-left: 30px;
+}
+
+.dropdown-box {
+  text-align: left;
+  align-content: left;
+}
+
+.search-bar {
+  text-align: left;
+}
+
+h1 {
+  text-align: center; /* Set margin to 0 to decrease line gap */
+}
+
+.profile-info {
+  text-align: center;
+  margin-right: 30px;
+}
+
+.profile-image {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+  margin-top: 6px;
+}
+
+.profile-name {
+  font-weight: bold;
+}
+
+.down-box{
+ /* border: 1px solid #ccc;*/
+  padding: 10px;
+  width: 100%;
+  height: 120px;
+  background-color: #ffffff;
+ 
+}
+.button-left {
+  margin: 5px;
+  padding: 2px;
+  border: none;
+  border-radius: 3px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: left;
+  padding-left: 2%;
+  text-transform: uppercase;
+  width: 20%;
+  height: 45px;
+  margin-left: 10px;
+}
+.button-middle {
+  margin: 2px;
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: left;
+  padding-left: 2%;
+  text-transform: uppercase;
+  width: 30%;
+  height: 45px;
+ 
+}
+.button-middleup {
+  margin: 2px;
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+  color: rgba(3, 0, 0, 0.915);
+  font-size: 14px;
+  cursor: pointer;
+  text-align:left;
+  padding-left: 2%;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 25%;
+  height: 45px;
+ 
+}
+.button-rightup {
+  margin: 2px;
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+  color: rgba(3, 0, 0, 0.915);
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-transform: uppercase;
+  width: 20%;
+  height: 45px;
+  margin-right: 20px;
+}
+.button-right {
+  margin: 2px;
+  padding: 5px;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-transform: uppercase;
+  width: 20%;
+  height: 45px;
+  margin-right: 20px;
+}
+
+
+
+
+

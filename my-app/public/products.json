@@ -1,0 +1,107 @@
+[
+    {
+      "id": 1,
+      "name": "Bat",
+      "quantity": 10,
+      "unitPrice": 54900.00,
+      "images": ["/images/image1.1.jpg", "/images/image1.2.jpg", "/images/image1.3.jpg"]
+    },
+    {
+        "id": 2,
+        "name": "Ball",
+        "quantity": 20,
+        "unitPrice": 2250.00,
+        "images": ["/images/image2.1.jpg", "/images/image2.2.jpg", "/images/image2.3.jpg"]
+      },
+      {
+        "id": 3,
+        "name": "Headset",
+        "quantity": 15,
+        "unitPrice": 18990.00,
+        "images": ["/images/image3.1.jpg", "/images/image3.2.jpg", "/images/image3.3.jpg"]
+      },
+      {
+        "id": 4,
+        "name": "Monitors",
+        "quantity": 5,
+        "unitPrice": 50000.00,
+        "images": ["/images/image4.1.jpg", "/images/image4.2.jpg", "/images/image4.3.jpg"]
+      },{
+        "id": 5,
+        "name": "Bluetooth Earbuds",
+        "quantity": 12,
+        "unitPrice": 7650.00,
+        "images": ["/images/image5.1.jpg", "/images/image5.2.jpg", "/images/image5.3.jpg"]
+      },
+      {
+        "id": 6,
+        "name": "Washing Machine",
+        "quantity": 10,
+        "unitPrice": 89000.00,
+        "images": ["/images/image6.1.jpg", "/images/image6.2.jpg", "/images/image6.3.jpg"]
+      },
+      {
+        "id": 7,
+        "name": "Sausepan",
+        "quantity": 25,
+        "unitPrice": 5750.00,
+        "images": ["/images/image7.1.jpg", "/images/image7.2.jpg", "/images/image7.3.jpg"]
+      },
+      {
+        "id": 8,
+        "name": "Laptop Bag",
+        "quantity": 30,
+        "unitPrice": 3150.00,
+        "images": ["/images/image8.1.jpg", "/images/image8.2.jpg", "/images/image8.3.jpg"]
+      },
+      {
+        "id": 9,
+        "name": "Shoes",
+        "quantity": 100,
+        "unitPrice": 5699.00,
+        "images": ["/images/image9.1.jpg", "/images/image9.2.jpg", "/images/image9.3.jpg"]
+      },
+      {
+        "id": 10,
+        "name": "Office Chairs",
+        "quantity": 15,
+        "unitPrice": 12900.00,
+        "images": ["/images/image10.1.jpg", "/images/image10.2.jpg", "/images/image10.3.jpg"]
+      },
+      {
+        "id": 11,
+        "name": "Electric Kettles",
+        "quantity": 10,
+        "unitPrice": 2500.00,
+        "images": ["/images/image11.1.jpg", "/images/image11.2.jpg", "/images/image11.3.jpg"]
+      },
+      {
+        "id": 12,
+        "name": "Television",
+        "quantity": 10,
+        "unitPrice": 51700.00,
+        "images": ["/images/image12.1.jpg", "/images/image12.2.jpg", "/images/image12.3.jpg"]
+      },
+      {
+        "id": 13,
+        "name": "Blenders & Grinders",
+        "quantity": 10,
+        "unitPrice":15990.00,
+        "images": ["/images/image13.1.jpg", "/images/image13.2.jpg", "/images/image13.3.jpg"]
+      },
+      {
+        "id": 14,
+        "name": "Mugs",
+        "quantity": 100,
+        "unitPrice": 3750.00 ,
+        "images": ["/images/image14.1.jpg", "/images/image14.2.jpg", "/images/image14.3.jpg"]
+      },
+      {
+        "id": 15,
+        "name": "Rice Cooker",
+        "quantity": 8,
+        "unitPrice": 9899.00,
+        "images": ["/images/image15.1.jpg", "/images/image15.2.jpg", "/images/image15.3.jpg"]
+      }
+  ]
+  

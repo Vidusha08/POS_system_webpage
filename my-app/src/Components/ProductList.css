@@ -1,0 +1,43 @@
+
+.product-list {
+  text-align: center;
+  height: 630px;
+  overflow: hidden;
+}
+
+.product-list-outer {
+  overflow-y: scroll;
+  height: 100%;
+}
+
+.product-list-inner {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 12px;
+  max-width: 900px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.product {
+  border: 1px solid #ccc;
+  padding: 10px;
+  transition: transform 0.005s;
+  height: 280px;
+  background-color: #eeebeb;
+}
+
+.product:hover {
+  transform: scale(1.05);
+}
+
+.product-images img {
+  width: 70%;
+  height: 150px;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.product p {
+  margin: 0; 
+}
